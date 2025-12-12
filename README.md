@@ -202,4 +202,4 @@ For any questions or feedback, please reach out through:
 
 ⭐ If you find this project helpful, please consider giving it a star!
 
-Deployed on: https://resnet50-rice-disease.streamlit.app/
+Deployed on: [https://resnet50-rice-disease.streamlit.app/](https://resnet50-rice-disease-classification.streamlit.app/)
