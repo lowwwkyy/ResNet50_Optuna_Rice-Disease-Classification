@@ -12,7 +12,7 @@ st.write("Upload a rice leaf image and let the model predict the disease class."
 
 @st.cache_resource
 def load_trained_model():
-    model_path = "Z:/Okky/BINUSIAN/Semester 5/Deep Learning/FINAL PROJECT/Outputs/best_resnet50_final.h5"
+    model_path = "./Outputs/best_resnet50_final.h5"
     if not os.path.exists(model_path):
         st.error(f"Model file not found: {model_path}")
         return None
